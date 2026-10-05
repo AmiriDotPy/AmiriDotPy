@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmiriDotPy
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Python Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
